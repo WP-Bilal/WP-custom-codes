@@ -1,0 +1,9 @@
+/*============================== 
+    paste this code is your CSS
+=================================*/
+
+.product-samll .badge-container {
+    left: unset;
+    right: -10px;
+    top: -4px;
+}
