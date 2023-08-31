@@ -1,3 +1,7 @@
+/*============================
+ paste this code in functions.php
+ ==============================*/
+
 add_action('template_redirect', 'redirect_404_to_homepage');
 
 function redirect_404_to_homepage() {
