@@ -1,0 +1,8 @@
+/* Product Elipsis */
+.single-product aside#woocommerce_products-15 span.product-title,
+.title-wrapper .product-title .woocommerce-LoopProduct-link {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 95%;
+}
