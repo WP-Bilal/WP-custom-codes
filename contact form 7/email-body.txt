@@ -1,0 +1,9 @@
+From: [your-name] [your-email]
+
+
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])
