@@ -1,0 +1,132 @@
+/* CHECKOUT  START*/
+
+p#billing_first_name_field {
+    width: 100%;
+}
+
+p#billing_address_1_field {
+    width: 100%;
+}
+
+p#billing_country_field {
+    display: none;
+}
+
+input[type] {
+    border-radius: 10px;
+}
+
+.cart-container .woocommerce .row .large-5 .col-inner.has-border {
+    border-color: #8b1825;
+}
+
+.woocommerce-form-coupon-toggle {
+    padding: 11px 18px;
+    margin-bottom: 10px;
+    box-shadow: rgb(17 17 26 / 10%) 0px 4px 16px, rgb(17 17 26 / 5%) 0px 8px 32px;
+    display: inline-block;
+    border: 1px solid #b1b1b1;
+}
+
+.message-container {
+    color: #8b1825;
+}
+
+.message-container {
+    font-size: 15px;
+}
+
+.message-wrapper {
+    padding-bottom: 0;
+}
+
+.checkout_coupon.woocommerce-form-coupon.has-border.is-dashed {
+    padding: 20px;
+}
+
+@media screen and (min-width: 850px){
+.large-7 {
+    flex-basis: 66.6666666667%;
+    max-width: 66.6666666667%;
+}
+	}
+
+@media screen and (min-width: 850px) {
+.large-5 {
+    flex-basis: 33.3333333333%;
+    max-width: 33.3333333333%;
+}
+	}
+
+button#place_order {
+    background: #8b1825;
+	width: 100%;
+}
+
+button[name="woocommerce_checkout_place_order"] {
+    margin-top: 8px;
+}
+
+
+
+.woocommerce-privacy-policy-text p {
+    font-size: 12px;
+}
+
+.continue_shop_btn_checkout a img {
+    /* filter: invert(1); */
+    margin-top: -2px;
+    margin-right: 2px;
+    width: 25px;
+}
+
+.cnt_shop{
+    background-color: #8b1825;
+    color: #fff;
+    padding: 14px 13px;
+    font-size: 14px;
+}
+
+.continue_shop_btn_checkout {
+    margin-bottom: 15px;
+}
+
+.woocommerce-billing-fields h3 {
+    color: black;
+}
+
+.woocommerce-additional-fields h3 {
+    display: none;
+}
+
+a.showcoupon {
+    font-weight: 600;
+}
+
+/* CHECKOUT  END*/
+
+
+/* Buttons above Checkout */
+
+a.oz-wpc-t {
+    background: white;
+    color: #8b1825;
+    border: solid 3px #8b1825;
+    font-weight: 600;
+	padding: 10px 13px;
+}
+
+.shortcode_wa_button::before {
+    font-size: 16px !important;
+    filter: invert(26%) sepia(89%) saturate(1583%) hue-rotate(95deg) brightness(96%) contrast(106%);
+}
+@media only screen and (max-width: 600px){
+a.oz-wpc-t {
+    background: white;
+    color: #8b1825;
+    border: solid 3px #8b1825;
+    font-weight: 600;
+    padding: 6px 3px;
+    font-size: 13px;
+}
+}

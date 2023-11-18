@@ -1,0 +1,11 @@
+.coupon-name > b{
+	color: red;
+}
+.coupon-description + p {
+	color: green;
+}
+
+
+.message-container.container.success-color.medium-text-center {
+    color: green;
+}
