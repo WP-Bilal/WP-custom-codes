@@ -1,0 +1,8 @@
+.regular-price {
+    font-weight: normal;
+    text-decoration: line-through;
+}
+
+.regular-price bdi:first-child {
+	font-weight: normal;
+}
