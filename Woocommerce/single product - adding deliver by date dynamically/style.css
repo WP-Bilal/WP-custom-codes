@@ -1,0 +1,12 @@
+.oz_delivered_By {
+    font-size: 12px;
+    color: #fff;
+    background-color: #333;
+    width: 185px;
+    padding: 2px 7px;
+    border-radius: 9px;
+}
+
+.product-small .oz_delivered_By{
+	display: none;
+}
