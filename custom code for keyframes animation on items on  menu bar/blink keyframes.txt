@@ -1,0 +1,28 @@
+#menu-item-73203{
+ animation: blink 2s ease infinite;
+	
+}
+
+#menu-item-73203 a{
+	color: white !important;
+}
+@keyframes blink{
+  0% {
+    background: #09937f;
+  }
+  20% {
+    background: black;
+  }
+  40% {
+    background: #09937f;
+  }
+  60% {
+    background: black;
+  }
+  80% {
+    background: #09937f;
+  }
+  100% {
+    background: #09937f;
+  }
+}

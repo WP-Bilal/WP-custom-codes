@@ -1,3 +1,4 @@
+<?
 add_action('woocommerce_review_order_before_submit', 'apply_product_on_coupon_checkout');
 
 function apply_product_on_coupon_checkout() {
